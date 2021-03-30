@@ -330,10 +330,10 @@ ansi-wrap@0.1.0:
   resolved "https://registry.yarnpkg.com/ansi-wrap/-/ansi-wrap-0.1.0.tgz#a82250ddb0015e9a27ca82e82ea603bbfa45efaf"
   integrity sha1-qCJQ3bABXponyoLoLqYDu/pF768=
 
-any-size@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/any-size/-/any-size-1.0.2.tgz#eec411ce36a844bc071fb189f71552ab02919da1"
-  integrity sha512-NxDoeHYG+pfIHUkKgPz12h89pIAyPVpxDWypgHlbklKyAtvVSp2lNr4HDqYy5Uq9HrbFrUS0EzqUUWbHl9So3A==
+any-size@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/any-size/-/any-size-1.2.0.tgz#e4f5318ec9cb41d705ae5f112d152fcc97bd1524"
+  integrity sha512-j2rYvi5+Ws/109ZKcMpN8c/xmSDsAe4zXPaZ6b3V8HSsdR/jh77K/WlEgjuBB0A0Ht+iXs0dAFsd5EQnYt0DpA==
   dependencies:
     "@sindresorhus/is" "^3.1.2"
     string-length "^4.0.1"
