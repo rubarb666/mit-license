@@ -25,7 +25,7 @@
   "license": "MIT",
   "dependencies": {
     "@octokit/rest": "^18.0.6",
-    "@sindresorhus/is": "^3.1.2",
+    "@sindresorhus/is": "^4.2.1",
     "any-size": "^1.0.2",
     "btoa": "^1.2.1",
     "cors": "^2.8.5",
